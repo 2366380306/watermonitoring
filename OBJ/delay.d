@@ -30,3 +30,13 @@
 ..\obj\delay.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
 ..\obj\delay.o: ..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
 ..\obj\delay.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\delay.o: ..\UCOSII-CONFIG\includes.h
+..\obj\delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\delay.o: ..\UCOSII-CORE\ucos_ii.h
+..\obj\delay.o: ..\UCOSII-CONFIG\includes.h
+..\obj\delay.o: ..\UCOSII-CONFIG\os_cfg.h
+..\obj\delay.o: ..\UCOSII-PORT\os_cpu.h
